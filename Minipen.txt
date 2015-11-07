@@ -1,2 +1,3 @@
-c'est moi qui �crit dans le fichier !
+c'est moi qui écrit dans le fichier !
               --- Minipen
+              et si c'est moi qui écrit?
