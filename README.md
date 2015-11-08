@@ -2,7 +2,16 @@
 
 Bon ben on fait des changements de fichier.
 
-# Pour envoyer des fichiers depuis GitHub pour Windows
+# GitHub 
+
+## Pour importer un dépôt
+
+ 1. Cliquer sur le `+` en haut à gauche
+ 2. Puis sélectionner *Clone* en haut
+ 3. Puis sélectionner *RobertJam* à gauche et *LabyRBJ* à droite
+ 4. Cliquer sur *Clone* en bas
+
+## Pour envoyer des fichiers depuis GitHub pour Windows
 
  1. Cliquer sur *Changes* en haut
  2. Dans le menu à gauche, entrer des textes pour *Summary* et éventuellement *Description*
