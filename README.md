@@ -2,7 +2,9 @@
 
 Bon ben on fait des changements de fichier.
 
-# GitHub 
+# GitHub pour Windows
+
+Une fois GitHub pour Windows installé :
 
 ## Pour importer un dépôt
 
